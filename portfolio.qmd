@@ -1,0 +1,802 @@
+---
+title: "viz_data"
+author: "v"
+editor: visual
+execute: 
+  echo: false
+  warning: false
+---
+
+# Penguins data
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(nycflights13)
+
+library(palmerpenguins)
+
+library(tidyverse)
+
+library(dplyr)
+
+library(ggthemes)
+
+library(skimr)
+
+library(tidyr)
+
+library(gghighlight)
+
+library(wesanderson)
+
+library(paletteer)
+
+library(RColorBrewer)
+```
+
+## geom_point
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x=body_mass_g,
+                     y=flipper_length_mm)) + 
+geom_point(color="red",alpha=0.3,size=1) +
+geom_smooth(color="yellow") +
+theme_classic()
+```
+
+```{r}
+ggplot(data = penguins,
+        aes(x = species, fill = sex, na.rm = FALSE)) +
+geom_bar()
+
+```
+
+```{r}
+ggplot(data = penguins,
+
+aes(x = sex)) +
+
+geom_bar()
+```
+
+```{r}
+ggplot(data = penguins,
+mapping =aes(x = island)) +
+geom_bar()
+```
+
+## flipper length and body mass
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = flipper_length_mm,
+                     y = body_mass_g)) +
+geom_point(mapping = aes(color = species,
+shape = species)) +
+geom_smooth() +
+labs(
+title = "Body mass and Flipper length",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = "Flipper_length (mm)",
+y = "Body_mass (g)",
+color = "Species",
+shape = "Species"
+) +
+scale_color_colorblind()
+```
+
+## 
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = flipper_length_mm,
+                     y = body_mass_g )) +
+geom_point(mapping = aes(color = sex,
+                         shape = sex)) +
+geom_smooth() +
+labs(
+title = "Body mass and Flipper length",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " Species",
+y = "Body_mass (g)",
+color = "Species",
+shape = "Species") +
+scale_color_colorblind()
+```
+
+## 
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = flipper_length_mm,
+                     y = bill_length_mm )) +
+geom_point(mapping = aes(color = sex,
+                         shape = sex)) +
+geom_smooth() +
+labs(
+title = "Body mass and Flipper length",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " Species",
+y = "Body_mass (g)",
+color = "Species",
+shape = "Species") +
+scale_color_colorblind()
+```
+
+## 
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = bill_length_mm,
+                     y = bill_depth_mm)) +
+geom_point(mapping = aes(color = species,
+                         shape = species)) +
+geom_smooth() +
+labs(
+title = "Body mass and species",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " bill_length_mm",
+y = "bill_depth_mm",
+color = "Species",
+shape = "Species") +
+scale_color_colorblind()
+```
+
+names(penguins)
+
+how many rows are penguins? how many coloum
+
+nrow(penguins)
+
+ncol(penguins)
+
+## 
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = species,
+                     y = bill_depth_mm)) +
+geom_point(mapping = aes(color = species,
+                         shape = species)) +
+geom_smooth() +
+labs(
+title = "bill depth(mm) and species",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " bill_length_mm",
+y = "bill_depth_mm",
+color = "Species",
+shape = "Species") +
+
+scale_color_colorblind()
+```
+
+## 
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = species,
+                     y = bill_depth_mm)) +
+geom_jitter(mapping = aes(color = species,
+                          shape = species)) +
+labs(
+title = "bill depth(mm) and species",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " species",
+y = "bill_depth_mm",
+color = "Species",
+shape = "Species") +
+scale_color_colorblind()
+```
+
+```{r}
+ggplot(penguins ,
+       aes(x = fct_rev(fct_infreq(species)))) +
+geom_bar(color = "red", fill = "Orange") +
+coord_flip()
+```
+
+dplyr::glimpse(penguins)
+
+skim(penguins)
+
+## class function use for ..different verision
+
+this data count differens
+
+```{r}
+ggplot( penguins,
+
+aes(x = bill_length_mm,
+
+y = bill_depth_mm, )) +
+
+geom_bar(stat = "identity" ) +
+
+coord_flip()
+```
+
+```{r}
+ggplot(data = penguins,
+
+mapping = aes(x = island,
+
+fill = species,)) +
+
+geom_bar(position = "stack")
+```
+
+```{r}
+ggplot(data = penguins,
+       mapping = aes(x = island,
+                     fill = species)) +
+geom_bar(position = "fill")
+```
+
+## four variable are combine
+
+```{r}
+ggplot(drop_na(penguins),
+       mapping = aes(x = bill_depth_mm,
+                     y = bill_length_mm)) +
+geom_point(mapping = aes(color = sex,
+                         shape = sex)) +
+geom_smooth() +
+labs(
+title = "bill depth(mm) and species",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " species",
+y = "bill_depth_mm",
+color = "Species",
+shape = "Species"
+) +
+scale_color_colorblind()
+```
+
+## New slide add
+
+```{r}
+ggplot(drop_na(penguins),
+       mapping = aes(x = flipper_length_mm,
+                     y = body_mass_g)) +
+geom_point(mapping = aes(color = bill_depth_mm,
+                         shape = sex)) +
+geom_smooth()
+labs(
+title = "bill depth(mm) and species",
+subtitle = "Adelie, Chinstrap, Gentoo",
+x = " species",
+y = "bill_depth_mm",
+color = "Species",
+shape = "Species") +
+scale_color_colorblind()
+```
+
+```{r}
+ggplot(
+
+data = penguins,
+mapping = aes(x = flipper_length_mm,
+              y = body_mass_g,
+color = island)) +
+geom_point() +
+geom_smooth(se = FALSE)
+```
+
+```{r}
+ggplot(
+
+data = penguins,
+mapping = aes(x = flipper_length_mm,
+              y = body_mass_g)) +
+geom_point() +
+geom_smooth()
+```
+
+```{r}
+ggplot() +
+geom_point(
+data = penguins,
+mapping = aes(x = flipper_length_mm,
+              y = body_mass_g)) +
+geom_smooth(data = penguins,
+            mapping = aes(x = flipper_length_mm,
+                          y = body_mass_g))
+```
+
+Use histogram function
+
+```{r}
+ggplot(
+data = penguins,
+mapping = aes(x = body_mass_g)) +
+geom_histogram()
+
+```
+
+use density function
+
+```{r}
+ggplot(
+data = penguins,
+mapping = aes(x = body_mass_g)) +
+geom_density()
+```
+
+use geom boxplot function layar
+
+```{r}
+ggplot(
+data = penguins,
+mapping = aes(x = species, y = body_mass_g)) +
+geom_boxplot()
+```
+
+```{r}
+ggplot(
+data = penguins,
+mapping = aes(x = body_mass_g,
+color = species)) +
+geom_density(linewidth = 0.75)
+```
+
+## \# two variable use this histogram
+
+```{r}
+ggplot(
+data = penguins,
+mapping = aes(x = species, y = body_mass_g)) +
+geom_boxplot()
+
+ggplot(
+
+data = penguins,
+
+mapping = aes(x = body_mass_g,
+
+col = species)) +
+
+geom_density(linewidth = 1)
+```
+
+tranparent of argument use alpha and
+
+## #information which penguins weight in sex
+
+```{r}
+ggplot(
+
+data = drop_na(penguins),
+
+mapping = aes(x = body_mass_g,
+
+col = sex,
+
+fill =sex )) +
+
+geom_density(alpha = 0.5)
+```
+
+show the data information
+
+```{r}
+ggplot(data = penguins,
+       mapping =aes(x = body_mass_g,
+                    y = bill_length_mm)) +
+  geom_point(aes(color = species, shape = species),
+             size = 2, fill = "white", shape = 21) 
+  # gghighlight(sex == "female" ) +
+  # scale_color_manual(values = c("#fbceb1","#00ffff","#7fffd4") +
+  # theme_economist_white() +
+  # 
+  # 
+  # labs(
+  # 
+  #   title = "Body mass and Flipper length",
+  # 
+  #   subtitle = "Adelie, Chinstrap, Gentoo",
+  # 
+  #   y = "Bill_length_mm ",
+  # 
+  #   x = "Body_mass (g)",
+  # 
+  #   color = "Species")
+```
+
+## #which penguins weight in island
+
+```{r}
+ggplot(data = drop_na(penguins),
+       mapping = aes(x = body_mass_g,
+       col = island,fill = island)) +
+geom_density(linewidth = 0.5, alpha =0.5)
+```
+
+\#
+
+```{r}
+ggplot(
+
+data = drop_na(penguins),
+
+mapping = aes(x = island, fill = sex)) +
+
+geom_bar() +
+
+theme_classic()
+```
+
+# flight data
+
+## 
+
+```{r}
+ggplot(flights, aes(y= fct_rev(fct_infreq(dest)))) + 
+  geom_bar(aes(fill = dest)) +
+  theme_classic() +
+  theme(axis.text.y = element_text(size = 6),
+        legend.position = "none") +
+  labs(
+    title = "All Flights Destination",
+    y = "Destination",
+    x = "Count of destination"
+  )
+```
+
+## 
+
+```{r}
+ggplot(flights, aes(y= fct_rev(fct_infreq(carrier)))) + 
+  geom_bar(aes(fill = dest)) +
+  theme_classic() +
+  theme(axis.text.y = element_text(size = 6),
+        legend.position = "none") +
+  labs(
+    title = "All Flights Carrier",
+    y = "Carrier",
+    x = "Count of Carrier"
+  )
+```
+
+## 
+
+```{r}
+# ggplot(flights, aes(y = dest)) +
+#   geom_bar() +
+#   theme(legendaxis.text.y = element_text(size = 6),
+#         legend.position = "none")
+```
+
+```{r}
+carrier_data <- flights |> 
+  group_by(carrier) |>
+  count() |> 
+  arrange(n)
+  
+carrier_data
+
+
+cv <- wes_palette("Moonrise3",16, type = "continuous")
+cv
+
+ggplot(carrier_data,
+       aes(y = fct_reorder(as.factor(carrier), n),
+           x = n)) + 
+  theme_classic() +
+geom_col( aes(fill = carrier)) + 
+  theme(legend.position = "none") +
+  scale_fill_manual(values = cv)
+```
+
+```{r}
+# table(carrier_data)
+# view(carrier_data)
+# group_by(carrier_data) |> select(n)                                   
+# 
+# view(penguins)
+# view(flights)
+# 
+# flights |>  filter(air_time > 400)
+# 
+# flights |>  filter(distance > 4000)
+# 
+# summary(flights)
+# 
+# flights |>  filter(distance <= 50)
+# 
+# flights |>  filter(distance <= 100)
+# 
+# flights |>  filter(month & day) 
+#   
+# flights |>  table()
+# 
+# table(flights$origin)
+# 
+# table(flights$dest)
+# 
+# table(flights$carrier)
+# dim(airlines)
+# 
+# flights |> filter(carrier == "DL")
+# 
+# flights |> filter(dep_delay == 120)
+# 
+# flights |> arrange(desc(dep_delay))
+# 
+# flights |> filter(dest == "BQN") |> 
+#   group_by(year, month, day) |> 
+#   summarise(mean(arr_delay, na.rm = TRUE))
+# 
+# flights |>  filter(month == 1 & day == 2 )
+# 
+# flights |>  filter(month == 1 & month == 2 )
+# 
+#                   ### HAD AN arrival delay of two or more hours
+# 
+#  flights |> filter(arr_delay >= 120) |>
+#    select(dest) |> group_by(dest) |> distinct() |> 
+#                 filter(dest %in% c("IAH", "HOU")) |>
+#                   filter(carrier %in% c("UA", "DL", "AA")) |> 
+#                   select(month %in% c(7,8,9))
+# 
+# flights |> filter(arr_delay > 120) 
+#                   dest %in% c("IAH" ,"HOU")
+# 
+# 
+# flights |> 
+#   mutate(
+#   gain = dep_delay - arr_delay,
+#   speed = distance / air_time*60,
+#  .before = 1 ) |> 
+#   arrange(desc(gain))
+#                       # use kableextra package
+# flights |> 
+#    mutate(
+#     hours = air_time/60,
+#   .before = 3 ) |> 
+#    arrange(hours) |> 
+#   head() |> 
+#   kbl() |> 
+#   kable_styling()
+# 
+# flights |> 
+#   select(origin, dest, carrier) |> 
+#   distinct() |> 
+#   group_by(carrier) |> 
+#   count() |> 
+#   arrange(n) 
+#   
+# 
+# flights |> 
+#   select(where(is.character))
+# 
+# flights |> 
+#   select(num_range("hour",1:6))
+
+```
+
+```{r}
+# dep <- flights |> filter(dep_time > 2400| dep_time < 600)
+#  view(dep)
+#  tail(dep)
+# head(dep)
+# 
+#            ##  only comes 4 variable
+# 
+# 
+# flights |> select(dep_time, dep_delay,
+#                   arr_time, arr_delay)
+# 
+# 
+# flights |> select(contains("delay"), contains("arr_"))
+# 
+# flights |> select(starts_with("arr"), starts_with("dep"))
+# 
+# flights |> select(!(c(year:day, carrier:time_hour,
+#                   sched_arr_time, sched_dep_time))
+# 
+# flights |> rename(air_time_min = air_time) |> 
+#   relocate(air_time_min, .before = year)
+# 
+# flights |> filter(dest == "IAH") |> 
+#   mutate(speed = distance/air_time*60) |> 
+#   select(year, month,day,dep_time, carrier, speed) |> 
+#   arrange(speed)  |> 
+#   group_by(carrier) |> 
+#   count()
+# 
+# 
+# flights |>
+#   group_by(month) |> 
+#   count()
+# 
+# flights |>
+#   group_by(month) |> 
+#   summarise(
+#     avg_time = mean(dep_delay, na.rm = TRUE)
+#   )
+# 
+# flights |>
+#   group_by(month) |> 
+#   summarise(
+#     avg_speed = mean(distance/air_time*60, na.rm = TRUE), n = n #  ())
+```
+
+# Data viz of Diamonds
+
+```{r}
+# help(diamonds)
+# glimpse(diamonds)
+# view(diamonds)
+# 
+# 
+# diamonds |> group_by(depth) |> 
+#   count() |>
+#   summarise(avg_depth = mean(depth)) |>
+#   tail()
+# 
+# mean(diamonds$depth)
+# mean(diamonds$table)
+# 
+# diamonds |> distinct(cut) |> table()
+# 
+# table(diamonds$cut)
+# 
+# diamonds |> group_by(cut) |> 
+#   summarise(
+#     avg_price = mean(price),
+#               count = n()
+# )
+# 
+# diamonds |> filter(price >= 10000) |> 
+# distinct(price)
+# 
+# diamonds |> filter(x > 8)
+# 
+# diamonds |>
+#   group_by(clarity) |> 
+# count()
+# 
+# diamonds |> select(cut, color, clarity) |> 
+#   group_by(color) |> count()
+# 
+# diamonds |> select(cut) |> 
+#   group_by(cut) |> 
+#   count()
+# 
+# diamonds |> mutate(new_price = price - 30) |> 
+#   select(new_price) |> 
+#   summarise(mean(new_price))
+# 
+# diamonds |> select(carat, depth, table) |> 
+#   group_by() |> 
+#   summarise(mean(carat),
+#             mean(depth),
+#             mean(table))
+# 
+# diamonds |> mutate(
+#   pricrt = price/carat) |> 
+#   select(pricrt) |> 
+#   arrange(desc(pricrt))
+# 
+# diamonds |> group_by(carat) |> 
+#   summarise(avg_price = mean(price), 
+#   count = n())
+# 
+# diamonds |> summarise(mean(price
+#                            ))
+# diamonds |> summarise(mean(carat))
+
+```
+
+```{r}
+ggplot(diamonds, aes(x = cut)) +
+  geom_bar(aes(fill = cut)) +
+  
+labs(
+  title = "Quality of the diamonds",
+  x = "Quality of Diamonds" ,
+  y = "Diamonds count")
+```
+
+```{r}
+ggplot(diamonds, aes(x = color)) +
+  geom_bar(aes(fill = color)) +
+  theme_bw() +
+  labs(
+    title = "Color of the diamonds",
+    x = "Color of Diamonds" ,
+    y = "Diamonds count"
+  )
+```
+
+```{r}
+ ggplot(diamonds, aes(x = clarity, fill = color)) +
+    geom_bar() +
+    theme_bw()
+  
+  labs(
+    title = "Clarity of the diamonds",
+    x = "Clarity of Diamonds" ,
+    y = "Diamonds count"
+  )
+```
+
+```{r}
+ggplot(diamonds, aes(x = cut)) +
+    geom_bar(aes(fill = clarity)) +
+    
+    labs(
+      title = "Quality of the diamonds with clarity",
+      x = "Quality of Diamonds" ,
+      y = "Diamonds count"
+    )
+```
+
+```{r}
+ggplot(diamonds,
+       aes(x = price, fill= cut)) +
+  geom_histogram() +
+labs(
+  title = "Price of Diamonds with Cut",
+  x = "Price of Diamonds",
+  y = "Count of Diamonds"
+)
+```
+
+```{r}
+ggplot(diamonds,
+       aes(x = price, fill= clarity)) +
+  geom_histogram() +
+  labs(
+    title = "Price With clarity of Diamonds",
+    x = "Price of Diamonds",
+    y = "Count of Diamonds"
+  )
+
+```
+
+```{r}
+ggplot(diamonds, 
+       aes(x = cut, fill = color)) +
+  geom_bar(position = "dodge") + 
+  
+  labs(
+    title = "Group by cut and color of Diamonds"
+  )
+```
+
+```{r}
+ggplot(diamonds, aes(x = depth, y = table )) +
+  geom_point(aes(color = depth)) + 
+  geom_smooth()
+```
+
+```{r}
+ggplot(diamonds, aes(x =price, y = carat, shape = color)) +
+  geom_point(aes(color = "red"))
+```
+
+```{r}
+ggplot(diamonds, aes(x = price)) +
+  geom_histogram(aes(fill = clarity)) +
+  theme_bw()
+```
+
+```{r}
+ggplot(diamonds, aes(x = cut, y = price)) +
+  theme_bw() +
+  geom_boxplot(fill = "lightblue")
+```
+
+```{r}
+ggplot(diamonds, aes(x = price, y = cut)) +
+  geom_line()
+```
+
+```{r}
+ggplot(diamonds, aes(x = price)) +
+  geom_density(aes(fill = factor(cut)), alpha = 0.5)
+```

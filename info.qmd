@@ -1,0 +1,26 @@
+---
+title: "info"
+editor: visual
+---
+
+## this is my first blog
+
+I create new style writing and code
+
+![](https://plus.unsplash.com/premium_photo-1677517547267-1e3ef52b6ccb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGVkdWNhdGlvbiUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%253D&auto=format&fit=crop&w=500&q=60)
+
+{{< fa thumbs-up >}}
+
+{{< fa folder >}}
+
+{{< fa chess-pawn >}}
+
+{{< fa brands bluetooth >}}
+
+{{< fa brands twitter size=2xl >}}
+
+{{< fa brands github size=5x >}}
+
+{{< fa battery-half size=Huge >}}
+
+{{< fa envelope title="An envelope" >}}

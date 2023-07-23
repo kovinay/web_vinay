@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
+
+
+
+/*-- define colors for later use --*/
+$green-dark: #014421;
+$blue: #e2f0d8;
+$blue-light: #93c9ff;
+
+// the page text color.
+$body-color: $green-dark;
+$body-bg: $blue;
+$link-color: $blue-light;
+
+// font style.
+
+$font-family-sans-serif: "Baskervville","serif";

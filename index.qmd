@@ -1,0 +1,35 @@
+---
+title: "Vinay Koure"
+image: avatar.jpg
+about:
+  id: hero-heading
+  template: trestles
+  #image-width: 10em 
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+toc: false
+---
+
+## Bio
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+**RGPV University**, Bhopal \| B.Tech in computer science \| july 2018 - June 2022
+
+**Pantech University** \| Artificial Intelligence \| Machine Learning \| Data Analytics \| Python
+
+**Sara Institute of Data Science** \| R Language \| Statistics \| Research Methedology \| SQL
+
+## Experience
+
+**Internship with MP Police** \| Cyber Security
+
+**Systemonex pvt ltd**
