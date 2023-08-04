@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "my blog",
+    "section": "",
+    "text": "Required for Basic Research Method\n\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nThe Future of Data Science: Trends and Predictions for the Next Decade\n\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nCreate Table in Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nJul 25, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nHow to Add Icon and Emoji in Quarto\n\n\n\n\n\nAn great experience\n\n\n\n\n\n\nJul 12, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nColor of Website\n\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nMade Write Blog\n\n\n\n\n\n\n\n\n\n\n\n\nJul 6, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nHomepage of Website\n\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nWorks with YML\n\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\ncreate quarto website\n\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nVinay\n\n\n\n\n\n\n  \n\n\n\n\nChange color and style theme of a Quarto\n\n\n\n\n\n\n\n\n\n\n\n\nJun 15, 2023\n\n\nVinay Koure\n\n\n\n\n\n\nNo matching items\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "image_for.html",
+    "href": "image_for.html",
+    "title": "Quarto in visual Mode",
+    "section": "",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "image_for.html#add-image",
+    "href": "image_for.html#add-image",
+    "title": "Quarto in visual Mode",
+    "section": "Add Image",
+    "text": "Add Image\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\nImage URL 😫"
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "info",
+    "section": "",
+    "text": "I create new style writing and code\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "info.html#this-is-my-first-blog",
+    "href": "info.html#this-is-my-first-blog",
+    "title": "info",
+    "section": "",
+    "text": "I create new style writing and code"
+  },
+  {
+    "objectID": "posts/2023-07-01_create_quarto_website/index.html",
+    "href": "posts/2023-07-01_create_quarto_website/index.html",
+    "title": "create quarto website",
+    "section": "",
+    "text": "How to Create Quarto Website\nBefore knowing anything , it is necessary to understand that thing , what it is and how it works, So first of all I will tell R and RStudio that with the help of this we will make our Quarto website.\n\nwhat is R and Rstudio\nso let’s start R is a programming language and software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. R is an integrated suite of software facilities for data manipulation, calculation, and graphical display.\nRStudio is a powerful and easy way to interact with R programming, considered an Integrated Development Environment (IDE) that provides a one-stop solution for all statistical computing and graphics. RStudio is a more advanced version of R that comes with a multi-pane window setup that provides access to all the primary things (such as source, console, environment and history, files, photos, graphs, etc.) on a single screen.\n\n\ninstall R and Rstudio\n\n\n\n\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023-07-05_homepage_of_website/index.html",
+    "href": "posts/2023-07-05_homepage_of_website/index.html",
+    "title": "Homepage of Website",
+    "section": "",
+    "text": "This page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023-07-05_what_it_is_quarto_yml/index.html",
+    "href": "posts/2023-07-05_what_it_is_quarto_yml/index.html",
+    "title": "Works with YML",
+    "section": "",
+    "text": "This page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023-07-06_write_blog_file/index.html",
+    "href": "posts/2023-07-06_write_blog_file/index.html",
+    "title": "Made Write Blog",
+    "section": "",
+    "text": "This page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023-07-10_color_formate_css/index.html",
+    "href": "posts/2023-07-10_color_formate_css/index.html",
+    "title": "Color of Website",
+    "section": "",
+    "text": "This page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023-08-01_require_reaseach_method/index.html",
+    "href": "posts/2023-08-01_require_reaseach_method/index.html",
+    "title": "Required for Basic Research Method",
+    "section": "",
+    "text": "Research methods refer to the systematic approaches and techniques used to gather, analyze, and interpret data in order to answer research questions or test hypotheses. The choice of research method depends on the nature of the research problem, the type of data required, available resources, and the researcher’s objectives. Here are some common research methods:\nExperimental Research: In experimental research, the researcher manipulates one or more variables to observe their effect on another variable, while controlling for other factors. Participants are randomly assigned to different groups (e.g., control group and experimental group) to ensure unbiased results. It is often used to establish cause-and-effect relationships.\nSurvey Research: Surveys involve collecting data from a sample of individuals through questionnaires, interviews, or online forms. They are used to gather information about people’s attitudes, opinions, behaviors, and characteristics. Surveys can be conducted in person, over the phone, through mail, or online.\nObservational Research: In observational research, the researcher observes and records behaviors or events without directly intervening. This method is useful for studying natural behavior in its real context. Observational research can be participant observation (the researcher becomes part of the group being observed) or non-participant observation (the researcher remains separate).\nCase Study: Case studies involve an in-depth examination of a single individual, group, organization, or event. They provide detailed insights and are often used in social sciences and psychology to understand complex phenomena.\nQualitative Research: Qualitative research aims to explore and understand the meanings, perspectives, and experiences of individuals or groups. Data collection methods include interviews, focus groups, content analysis, and ethnography. It is particularly useful for gaining insights into social and cultural contexts.\nQuantitative Research: Quantitative research involves the collection of numerical data and the use of statistical analysis to draw conclusions. It focuses on measuring relationships between variables and making generalizations based on large samples.\nMixed Methods Research: Mixed methods research combines both quantitative and qualitative approaches to gain a comprehensive understanding of the research problem. It allows researchers to triangulate findings and obtain a more complete picture.\nSecondary Data Analysis: Researchers can also use existing data collected by others for their research. This method is known as secondary data analysis. It involves re-analyzing data from sources like government agencies, research institutions, or other published studies.\nThe choice of research method depends on the research questions, the available resources, the level of control needed, and the type of data required to answer the research problem adequately. Each method has its strengths and limitations, and researchers often combine multiple methods to strengthen their findings.\n\n\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html",
+    "href": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html",
+    "title": "How to Add Icon and Emoji in Quarto",
+    "section": "",
+    "text": "To use this extension run the following in your terminal in the Quarto project you want to use these icon.\nquarto add quarto-ext/fontawesome\nAfter entering in terminal it will look something like this\n\n\n\n\n\nput the code in terminal after that click enter and it will run\nNote that this extension requires Quarto 1.2.198 or higher. We strongly recommend that you make sure you are running the latest version of Quarto.\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#instaling",
+    "href": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#instaling",
+    "title": "How to Add Icon and Emoji in Quarto",
+    "section": "",
+    "text": "To use this extension run the following in your terminal in the Quarto project you want to use these icon.\nquarto add quarto-ext/fontawesome\nAfter entering in terminal it will look something like this\n\n\n\n\n\nput the code in terminal after that click enter and it will run\nNote that this extension requires Quarto 1.2.198 or higher. We strongly recommend that you make sure you are running the latest version of Quarto."
+  },
+  {
+    "objectID": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#using-the-icons-in-quarto-file",
+    "href": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#using-the-icons-in-quarto-file",
+    "title": "How to Add Icon and Emoji in Quarto",
+    "section": "Using the icons in quarto file",
+    "text": "Using the icons in quarto file\nTo embed an icon, use the shortcode. For example:\nIf you use normal so for that write shortcode under putting icon name\n\n\n\nUse brands icon so for that this type code"
+  },
+  {
+    "objectID": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#sizing-icons",
+    "href": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#sizing-icons",
+    "title": "How to Add Icon and Emoji in Quarto",
+    "section": "Sizing icons",
+    "text": "Sizing icons\nFont Awesome provides relative and literal sizing for icons.\n\nRelative sizing:\n\n.\n\n\n\nRelative Sizing Class\nFont Size\nEquivalent in Pixels\n\n\n\n\nfa-2xs\n0.625em\n10px\n\n\nfa-xs\n0.75em\n12px\n\n\nfa-sm\n0.875em\n14px\n\n\nfa-lg\n1.25em\n20px\n\n\nfa-xl\n1.5em\n24px\n\n\nfa-2xl\n2em\n32px\n\n\n\n\nLiteral sizing:\n\n.\n\n\n\nLiteral Sizing Class\nFont Size\n\n\n\n\nfa-1x\n1em\n\n\nfa-2x\n2em\n\n\nfa-3x\n3em\n\n\nfa-4x\n4em\n\n\nfa-5x\n5em\n\n\nfa-6x\n6em\n\n\nfa-7x\n7em\n\n\nfa-8x\n8em\n\n\nfa-9x\n9em\n\n\nfa-10x\n10em"
+  },
+  {
+    "objectID": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#accessbility",
+    "href": "posts/2023_07_12_h_add_icon_emoji_quarto/index.html#accessbility",
+    "title": "How to Add Icon and Emoji in Quarto",
+    "section": "Accessbility",
+    "text": "Accessbility\nIf the icon is being used in place of some text, just add some descriptive text in the title argument:"
+  },
+  {
+    "objectID": "posts/2023_07_29_Begineer_data_science/index.html",
+    "href": "posts/2023_07_29_Begineer_data_science/index.html",
+    "title": "The Future of Data Science: Trends and Predictions for the Next Decade",
+    "section": "",
+    "text": "Introduction : The future of data science promises a paradigm shift, where data-driven insights evolve into true wisdom, empowering humanity to address complex challenges, innovate, and make informed decisions. This concept envisions a data-driven world where data science transcends its current state, leading to a deeper understanding of our universe and facilitating a more sustainable and equitable future.\n\nUbiquitous Data Collection: The future will witness an exponential growth in data generation and collection. The proliferation of IoT devices, wearables, and smart infrastructure will create a vast and diverse data landscape, providing unprecedented opportunities for data scientists to extract valuable insights.\nThe Rise of Quantum Data Science: Quantum computing will revolutionize data science by solving complex problems with unmatched efficiency. Quantum data science will enable us to simulate quantum systems, optimize supply chains, and discover new materials, taking data-driven research to an entirely new level.\nCognitive Data Analytics: Data science will evolve with cognitive capabilities, enabling machines to not only analyze data but also understand context, emotions, and intent. Cognitive data analytics will foster human-machine interactions that are more intuitive and empathetic, augmenting decision-making processes.\nExplainable AI for Trust and Transparency: Explainable AI (XAI) will be integral to the future of data science. As AI plays a critical role in sensitive domains like healthcare and finance, interpretability will be crucial to understand the reasoning behind AI-driven decisions, ensuring transparency and building trust with users.\nPrescriptive and Contextual Intelligence: Data science will move beyond predictive analytics to offer prescriptive and contextual intelligence. AI models will not only anticipate future outcomes but also provide actionable recommendations tailored to specific contexts, empowering individuals and organizations to make optimal decisions.\nData Fusion and Unification: Data science will unify disparate data sources through advanced data fusion techniques, combining structured and unstructured data seamlessly. This will lead to a more comprehensive understanding of complex systems and phenomena, unlocking new insights and driving innovation.\nResponsible AI and Ethical Data Governance: As AI and data science become ubiquitous, a strong emphasis on responsible AI and ethical data governance will be paramount. Data scientists will lead efforts to ensure fairness, inclusivity, and ethical practices in AI applications, addressing biases and preserving individual privacy.\nInterdisciplinary Collaborations: Data science will increasingly collaborate with various disciplines such as neuroscience, social sciences, and environmental studies. This interdisciplinary approach will lead to groundbreaking discoveries and innovative solutions to global challenges, transcending traditional silos.\nWisdom-driven Decision-Making: Data science will evolve from generating insights to extracting wisdom from data. Wisdom-driven decision-making will consider not only short-term gains but also long-term consequences, aligning data-driven solutions with broader societal goals and sustainability.\nThe Democratization of Data Literacy: Data literacy will be democratically accessible, empowering individuals from all backgrounds to comprehend, analyze, and interpret data. This democratization of data literacy will foster data-driven citizenship and enable informed participation in societal decision-making.\n\nConclusion : The future of data science holds the promise of unlocking the full potential of data, transforming insights into wisdom and driving humanity towards a more enlightened and prosperous future. Through the fusion of cognitive computing, quantum data science, ethical practices, and interdisciplinary collaborations, data science will transcend its current limitations, catalyzing innovation and societal progress. Embracing responsible AI, transparency, and data ethics will be instrumental in building trust and ensuring the responsible use of data for the betterment of humanity. As we move towards this future, data scientists will play a pivotal role in shaping a world where data-driven wisdom leads us to solve grand challenges, build sustainable societies, and achieve new heights of human understanding and compassion.\n\n\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/23_06_15_change_color_font_style_quarto/index.html",
+    "href": "posts/23_06_15_change_color_font_style_quarto/index.html",
+    "title": "Change color and style theme of a Quarto",
+    "section": "",
+    "text": "Proin ut augue ut metus hendrerit malesuada at id turpis. Nullam ultricies orci semper sem vulputate, vel faucibus ligula rhoncus. Donec vel lacinia ante, sed consectetur nibh. Donec egestas sagittis laoreet.\n\n\n\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/23_07_25_create_web_table/index.html",
+    "href": "posts/23_07_25_create_web_table/index.html",
+    "title": "Create Table in Website",
+    "section": "",
+    "text": "These are the top six row of the penguins data.\nlibrary(knitr)\nlibrary(kableExtra)\nlibrary(palmerpenguins)\n\npeng &lt;- head(penguins)\n\npeng\n\n# A tibble: 6 × 8\n  species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n1 Adelie  Torgersen           39.1          18.7               181        3750\n2 Adelie  Torgersen           39.5          17.4               186        3800\n3 Adelie  Torgersen           40.3          18                 195        3250\n4 Adelie  Torgersen           NA            NA                  NA          NA\n5 Adelie  Torgersen           36.7          19.3               193        3450\n6 Adelie  Torgersen           39.3          20.6               190        3650\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\nthese are the bottom six row of the penguins data.\npeng_tail &lt;- tail(penguins)\n\npeng_tail\n\n# A tibble: 6 × 8\n  species   island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;fct&gt;     &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n1 Chinstrap Dream            45.7          17                 195        3650\n2 Chinstrap Dream            55.8          19.8               207        4000\n3 Chinstrap Dream            43.5          18.1               202        3400\n4 Chinstrap Dream            49.6          18.2               193        3775\n5 Chinstrap Dream            50.8          19                 210        4100\n6 Chinstrap Dream            50.2          18.7               198        3775\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "posts/23_07_25_create_web_table/index.html#table-styles",
+    "href": "posts/23_07_25_create_web_table/index.html#table-styles",
+    "title": "Create Table in Website",
+    "section": "Table Styles",
+    "text": "Table Styles\n\nkbl(peng) |&gt; \n  kable_material(\"striped\", full_width = TRUE)\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007\n\n\n\n\n\n\n\nWhen you are using kable(), if you don’t specify format, by default it will generate a markdown table and let pandoc handle the conversion from markdown to HTML/PDF. This is the most favorable approach to render most simple tables as it is format independent. If you switch from HTML to pdf, you basically don’t need to change anything in your code. However, markdown doesn’t support complex table. For example, if you want to have a double-row header table, markdown just cannot provide you the functionality you need.\n\nkbl(peng) |&gt; \n  kable_styling(\"hover\", full_width = TRUE, font_size = 7)\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007\n\n\n\n\n\n\n\nWhen you are using kable(), if you don’t specify format, by default it will generate a markdown table and let pandoc handle the conversion from markdown to HTML/PDF. This is the most favorable approach to render most simple tables as it is format independent. If you switch from HTML to pdf, you basically don’t need to change anything in your code. However, markdown doesn’t support complex table. For example, if you want to have a double-row header table, markdown just cannot provide you the functionality you need.\n\nkbl(peng) |&gt; \n  kable_styling(font_size = 7)\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vinay Koure",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nThis page brought to you by https://example.com"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Vinay Koure",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vinay Koure",
+    "section": "Education",
+    "text": "Education\nRGPV University, Bhopal | B.Tech in computer science | july 2018 - June 2022\nPantech University | Artificial Intelligence | Machine Learning | Data Analytics | Python\nSara Institute of Data Science | R Language | Statistics | Research Methedology | SQL"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Vinay Koure",
+    "section": "Experience",
+    "text": "Experience\nInternship with MP Police | Cyber Security\nSystemonex pvt ltd"
+  }
+]
