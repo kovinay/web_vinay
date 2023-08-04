@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>my</title>
+<link>https://example.com/mysite/blog.html</link>
+<atom:link href="https://example.com/mysite/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.340</generator>
+<lastBuildDate>Mon, 31 Jul 2023 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Required for Basic Research Method</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023-08-01_require_reaseach_method/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><br>
+Research methods refer to the systematic approaches and techniques used to gather, analyze, and interpret data in order to answer research questions or test hypotheses. The choice of research method depends on the nature of the research problem, the type of data required, available resources, and the researcher’s objectives. Here are some common research methods:</p>
+<p><strong>Experimental Research:</strong> In experimental research, the researcher manipulates one or more variables to observe their effect on another variable, while controlling for other factors. Participants are randomly assigned to different groups (e.g., control group and experimental group) to ensure unbiased results. It is often used to establish cause-and-effect relationships.</p>
+<p><strong>Survey Research:</strong> Surveys involve collecting data from a sample of individuals through questionnaires, interviews, or online forms. They are used to gather information about people’s attitudes, opinions, behaviors, and characteristics. Surveys can be conducted in person, over the phone, through mail, or online.</p>
+<p><strong>Observational Research:</strong> In observational research, the researcher observes and records behaviors or events without directly intervening. This method is useful for studying natural behavior in its real context. Observational research can be participant observation (the researcher becomes part of the group being observed) or non-participant observation (the researcher remains separate).</p>
+<p><strong>Case Study:</strong> Case studies involve an in-depth examination of a single individual, group, organization, or event. They provide detailed insights and are often used in social sciences and psychology to understand complex phenomena.</p>
+<p><strong>Qualitative Research:</strong> Qualitative research aims to explore and understand the meanings, perspectives, and experiences of individuals or groups. Data collection methods include interviews, focus groups, content analysis, and ethnography. It is particularly useful for gaining insights into social and cultural contexts.</p>
+<p><strong>Quantitative Research:</strong> Quantitative research involves the collection of numerical data and the use of statistical analysis to draw conclusions. It focuses on measuring relationships between variables and making generalizations based on large samples.</p>
+<p><strong>Mixed Methods Research:</strong> Mixed methods research combines both quantitative and qualitative approaches to gain a comprehensive understanding of the research problem. It allows researchers to triangulate findings and obtain a more complete picture.</p>
+<p><strong>Secondary Data Analysis:</strong> Researchers can also use existing data collected by others for their research. This method is known as secondary data analysis. It involves re-analyzing data from sources like government agencies, research institutions, or other published studies.</p>
+<p>The choice of research method depends on the research questions, the available resources, the level of control needed, and the type of data required to answer the research problem adequately. Each method has its strengths and limitations, and researchers often combine multiple methods to strengthen their findings.</p>
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <category>research</category>
+  <category>data science</category>
+  <guid>https://example.com/mysite/posts/2023-08-01_require_reaseach_method/index.html</guid>
+  <pubDate>Mon, 31 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023-08-01_require_reaseach_method/research.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>The Future of Data Science: Trends and Predictions for the Next Decade</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023_07_29_Begineer_data_science/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><strong>Introduction</strong> : The future of data science promises a paradigm shift, where data-driven insights evolve into true wisdom, empowering humanity to address complex challenges, innovate, and make informed decisions. This concept envisions a data-driven world where data science transcends its current state, leading to a deeper understanding of our universe and facilitating a more sustainable and equitable future.</p>
+<ul>
+<li><p>Ubiquitous Data Collection: The future will witness an exponential growth in data generation and collection. The proliferation of IoT devices, wearables, and smart infrastructure will create a vast and diverse data landscape, providing unprecedented opportunities for data scientists to extract valuable insights.</p></li>
+<li><p>The Rise of Quantum Data Science: Quantum computing will revolutionize data science by solving complex problems with unmatched efficiency. Quantum data science will enable us to simulate quantum systems, optimize supply chains, and discover new materials, taking data-driven research to an entirely new level.</p></li>
+<li><p>Cognitive Data Analytics: Data science will evolve with cognitive capabilities, enabling machines to not only analyze data but also understand context, emotions, and intent. Cognitive data analytics will foster human-machine interactions that are more intuitive and empathetic, augmenting decision-making processes.</p></li>
+<li><p>Explainable AI for Trust and Transparency: Explainable AI (XAI) will be integral to the future of data science. As AI plays a critical role in sensitive domains like healthcare and finance, interpretability will be crucial to understand the reasoning behind AI-driven decisions, ensuring transparency and building trust with users.</p></li>
+<li><p>Prescriptive and Contextual Intelligence: Data science will move beyond predictive analytics to offer prescriptive and contextual intelligence. AI models will not only anticipate future outcomes but also provide actionable recommendations tailored to specific contexts, empowering individuals and organizations to make optimal decisions.</p></li>
+<li><p>Data Fusion and Unification: Data science will unify disparate data sources through advanced data fusion techniques, combining structured and unstructured data seamlessly. This will lead to a more comprehensive understanding of complex systems and phenomena, unlocking new insights and driving innovation.</p></li>
+<li><p>Responsible AI and Ethical Data Governance: As AI and data science become ubiquitous, a strong emphasis on responsible AI and ethical data governance will be paramount. Data scientists will lead efforts to ensure fairness, inclusivity, and ethical practices in AI applications, addressing biases and preserving individual privacy.</p></li>
+<li><p>Interdisciplinary Collaborations: Data science will increasingly collaborate with various disciplines such as neuroscience, social sciences, and environmental studies. This interdisciplinary approach will lead to groundbreaking discoveries and innovative solutions to global challenges, transcending traditional silos.</p></li>
+<li><p>Wisdom-driven Decision-Making: Data science will evolve from generating insights to extracting wisdom from data. Wisdom-driven decision-making will consider not only short-term gains but also long-term consequences, aligning data-driven solutions with broader societal goals and sustainability.</p></li>
+<li><p>The Democratization of Data Literacy: Data literacy will be democratically accessible, empowering individuals from all backgrounds to comprehend, analyze, and interpret data. This democratization of data literacy will foster data-driven citizenship and enable informed participation in societal decision-making.</p></li>
+</ul>
+<p><strong>Conclusion</strong> : The future of data science holds the promise of unlocking the full potential of data, transforming insights into wisdom and driving humanity towards a more enlightened and prosperous future. Through the fusion of cognitive computing, quantum data science, ethical practices, and interdisciplinary collaborations, data science will transcend its current limitations, catalyzing innovation and societal progress. Embracing responsible AI, transparency, and data ethics will be instrumental in building trust and ensuring the responsible use of data for the betterment of humanity. As we move towards this future, data scientists will play a pivotal role in shaping a world where data-driven wisdom leads us to solve grand challenges, build sustainable societies, and achieve new heights of human understanding and compassion.</p>
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <category>data science</category>
+  <category>html</category>
+  <guid>https://example.com/mysite/posts/2023_07_29_Begineer_data_science/index.html</guid>
+  <pubDate>Fri, 28 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023_07_29_Begineer_data_science/data.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Create Table in Website</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/23_07_25_create_web_table/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>These are the top six row of the penguins data.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(knitr)</span>
+<span id="cb1-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(kableExtra)</span>
+<span id="cb1-3"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(palmerpenguins)</span>
+<span id="cb1-4"></span>
+<span id="cb1-5">peng <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">head</span>(penguins)</span>
+<span id="cb1-6"></span>
+<span id="cb1-7">peng</span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 6 × 8
+  species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g
+  &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;
+1 Adelie  Torgersen           39.1          18.7               181        3750
+2 Adelie  Torgersen           39.5          17.4               186        3800
+3 Adelie  Torgersen           40.3          18                 195        3250
+4 Adelie  Torgersen           NA            NA                  NA          NA
+5 Adelie  Torgersen           36.7          19.3               193        3450
+6 Adelie  Torgersen           39.3          20.6               190        3650
+# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;</code></pre>
+</div>
+</div>
+<p>these are the bottom six row of the penguins data.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">peng_tail <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tail</span>(penguins)</span>
+<span id="cb3-2"></span>
+<span id="cb3-3">peng_tail</span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 6 × 8
+  species   island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g
+  &lt;fct&gt;     &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;
+1 Chinstrap Dream            45.7          17                 195        3650
+2 Chinstrap Dream            55.8          19.8               207        4000
+3 Chinstrap Dream            43.5          18.1               202        3400
+4 Chinstrap Dream            49.6          18.2               193        3775
+5 Chinstrap Dream            50.8          19                 210        4100
+6 Chinstrap Dream            50.2          18.7               198        3775
+# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;</code></pre>
+</div>
+</div>
+<section id="table-styles" class="level2">
+<h2 class="anchored" data-anchor-id="table-styles">Table Styles</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">kbl</span>(peng) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span> </span>
+<span id="cb5-2">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">kable_material</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"striped"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">full_width =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)</span></code></pre></div>
+<div class="cell-output-display">
+<table class="lightable-material lightable-striped table table-sm table-striped small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">species</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">island</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">bill_length_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">bill_depth_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">flipper_length_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">body_mass_g</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">sex</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">year</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.1</td>
+<td style="text-align: right;">18.7</td>
+<td style="text-align: right;">181</td>
+<td style="text-align: right;">3750</td>
+<td style="text-align: left;">male</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.5</td>
+<td style="text-align: right;">17.4</td>
+<td style="text-align: right;">186</td>
+<td style="text-align: right;">3800</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">40.3</td>
+<td style="text-align: right;">18.0</td>
+<td style="text-align: right;">195</td>
+<td style="text-align: right;">3250</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">36.7</td>
+<td style="text-align: right;">19.3</td>
+<td style="text-align: right;">193</td>
+<td style="text-align: right;">3450</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.3</td>
+<td style="text-align: right;">20.6</td>
+<td style="text-align: right;">190</td>
+<td style="text-align: right;">3650</td>
+<td style="text-align: left;">male</td>
+<td style="text-align: right;">2007</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+<p>When you are using kable(), if you don’t specify format, by default it will generate a markdown table and let pandoc handle the conversion from markdown to HTML/PDF. This is the most favorable approach to render most simple tables as it is format independent. If you switch from HTML to pdf, you basically don’t need to change anything in your code. However, markdown doesn’t support complex table. For example, if you want to have a double-row header table, markdown just cannot provide you the functionality you need.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">kbl</span>(peng) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span> </span>
+<span id="cb6-2">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">kable_styling</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"hover"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">full_width =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">font_size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">7</span>)</span></code></pre></div>
+<div class="cell-output-display">
+<table class="table table-hover table-sm table-striped small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">species</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">island</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">bill_length_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">bill_depth_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">flipper_length_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">body_mass_g</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">sex</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">year</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.1</td>
+<td style="text-align: right;">18.7</td>
+<td style="text-align: right;">181</td>
+<td style="text-align: right;">3750</td>
+<td style="text-align: left;">male</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.5</td>
+<td style="text-align: right;">17.4</td>
+<td style="text-align: right;">186</td>
+<td style="text-align: right;">3800</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">40.3</td>
+<td style="text-align: right;">18.0</td>
+<td style="text-align: right;">195</td>
+<td style="text-align: right;">3250</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">36.7</td>
+<td style="text-align: right;">19.3</td>
+<td style="text-align: right;">193</td>
+<td style="text-align: right;">3450</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.3</td>
+<td style="text-align: right;">20.6</td>
+<td style="text-align: right;">190</td>
+<td style="text-align: right;">3650</td>
+<td style="text-align: left;">male</td>
+<td style="text-align: right;">2007</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+<p>When you are using kable(), if you don’t specify format, by default it will generate a markdown table and let pandoc handle the conversion from markdown to HTML/PDF. This is the most favorable approach to render most simple tables as it is format independent. If you switch from HTML to pdf, you basically don’t need to change anything in your code. However, markdown doesn’t support complex table. For example, if you want to have a double-row header table, markdown just cannot provide you the functionality you need.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">kbl</span>(peng) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span> </span>
+<span id="cb7-2">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">kable_styling</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">font_size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">7</span>)</span></code></pre></div>
+<div class="cell-output-display">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">species</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">island</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">bill_length_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">bill_depth_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">flipper_length_mm</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">body_mass_g</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">sex</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">year</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.1</td>
+<td style="text-align: right;">18.7</td>
+<td style="text-align: right;">181</td>
+<td style="text-align: right;">3750</td>
+<td style="text-align: left;">male</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.5</td>
+<td style="text-align: right;">17.4</td>
+<td style="text-align: right;">186</td>
+<td style="text-align: right;">3800</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">40.3</td>
+<td style="text-align: right;">18.0</td>
+<td style="text-align: right;">195</td>
+<td style="text-align: right;">3250</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: right;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">36.7</td>
+<td style="text-align: right;">19.3</td>
+<td style="text-align: right;">193</td>
+<td style="text-align: right;">3450</td>
+<td style="text-align: left;">female</td>
+<td style="text-align: right;">2007</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adelie</td>
+<td style="text-align: left;">Torgersen</td>
+<td style="text-align: right;">39.3</td>
+<td style="text-align: right;">20.6</td>
+<td style="text-align: right;">190</td>
+<td style="text-align: right;">3650</td>
+<td style="text-align: left;">male</td>
+<td style="text-align: right;">2007</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+
+
+</section>
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <category>data science</category>
+  <guid>https://example.com/mysite/posts/23_07_25_create_web_table/index.html</guid>
+  <pubDate>Mon, 24 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/23_07_25_create_web_table/table.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>How to Add Icon and Emoji in Quarto</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023_07_12_h_add_icon_emoji_quarto/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="instaling" class="level2">
+<h2 class="anchored" data-anchor-id="instaling">instaling</h2>
+<p>To use this extension run the following in your terminal in the Quarto project you want to use these icon.</p>
+<p>quarto add quarto-ext/fontawesome</p>
+<p>After entering in terminal it will look something like this</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://example.com/mysite/posts/2023_07_12_h_add_icon_emoji_quarto/terminal.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>put the code in terminal after that click enter and it will run</p>
+<p>Note that this extension requires Quarto 1.2.198 or higher. We strongly recommend that you make sure you are running the latest version of Quarto.</p>
+</section>
+<section id="using-the-icons-in-quarto-file" class="level2">
+<h2 class="anchored" data-anchor-id="using-the-icons-in-quarto-file">Using the icons in quarto file</h2>
+<p>To embed an icon, use the shortcode. For example:</p>
+<p>If you use normal so for that write shortcode under putting icon name</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Use brands icon so for that this type code</p>
+<p></p>
+</section>
+<section id="sizing-icons" class="level2">
+<h2 class="anchored" data-anchor-id="sizing-icons">Sizing icons</h2>
+<p>Font Awesome provides relative and literal sizing for icons.</p>
+<ul>
+<li>Relative sizing:</li>
+</ul>
+<p>.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Relative Sizing Class</th>
+<th>Font Size</th>
+<th>Equivalent in Pixels</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>fa-2xs</td>
+<td>0.625em</td>
+<td>10px</td>
+</tr>
+<tr class="even">
+<td>fa-xs</td>
+<td>0.75em</td>
+<td>12px</td>
+</tr>
+<tr class="odd">
+<td>fa-sm</td>
+<td>0.875em</td>
+<td>14px</td>
+</tr>
+<tr class="even">
+<td>fa-lg</td>
+<td>1.25em</td>
+<td>20px</td>
+</tr>
+<tr class="odd">
+<td>fa-xl</td>
+<td>1.5em</td>
+<td>24px</td>
+</tr>
+<tr class="even">
+<td>fa-2xl</td>
+<td>2em</td>
+<td>32px</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Literal sizing:</li>
+</ul>
+<p>.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Literal Sizing Class</th>
+<th>Font Size</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>fa-1x</td>
+<td>1em</td>
+</tr>
+<tr class="even">
+<td>fa-2x</td>
+<td>2em</td>
+</tr>
+<tr class="odd">
+<td>fa-3x</td>
+<td>3em</td>
+</tr>
+<tr class="even">
+<td>fa-4x</td>
+<td>4em</td>
+</tr>
+<tr class="odd">
+<td>fa-5x</td>
+<td>5em</td>
+</tr>
+<tr class="even">
+<td>fa-6x</td>
+<td>6em</td>
+</tr>
+<tr class="odd">
+<td>fa-7x</td>
+<td>7em</td>
+</tr>
+<tr class="even">
+<td>fa-8x</td>
+<td>8em</td>
+</tr>
+<tr class="odd">
+<td>fa-9x</td>
+<td>9em</td>
+</tr>
+<tr class="even">
+<td>fa-10x</td>
+<td>10em</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="accessbility" class="level2">
+<h2 class="anchored" data-anchor-id="accessbility">Accessbility</h2>
+<p>If the icon is being used in place of some text, just add some descriptive text in the title argument:</p>
+<p></p>
+
+
+</section>
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <category>data science</category>
+  <guid>https://example.com/mysite/posts/2023_07_12_h_add_icon_emoji_quarto/index.html</guid>
+  <pubDate>Tue, 11 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023_07_12_h_add_icon_emoji_quarto/emoji.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Color of Website</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023-07-10_color_formate_css/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>css</category>
+  <category>sass</category>
+  <guid>https://example.com/mysite/posts/2023-07-10_color_formate_css/index.html</guid>
+  <pubDate>Sun, 09 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023-07-10_color_formate_css/csscolor.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Made Write Blog</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023-07-06_write_blog_file/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <guid>https://example.com/mysite/posts/2023-07-06_write_blog_file/index.html</guid>
+  <pubDate>Wed, 05 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023-07-06_write_blog_file/blog.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Homepage of Website</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023-07-05_homepage_of_website/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <guid>https://example.com/mysite/posts/2023-07-05_homepage_of_website/index.html</guid>
+  <pubDate>Tue, 04 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023-07-05_homepage_of_website/frontpage.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Works with YML</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023-07-05_what_it_is_quarto_yml/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="project" class="level2">
+<h2 class="anchored" data-anchor-id="project">project</h2>
+
+
+</section>
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>yaml</category>
+  <guid>https://example.com/mysite/posts/2023-07-05_what_it_is_quarto_yml/index.html</guid>
+  <pubDate>Tue, 04 Jul 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023-07-05_what_it_is_quarto_yml/yml.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>create quarto website</title>
+  <dc:creator>Vinay </dc:creator>
+  <link>https://example.com/mysite/posts/2023-07-01_create_quarto_website/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="how-to-create-quarto-website" class="level1">
+<h1>How to Create Quarto Website</h1>
+<p>Before knowing anything , it is necessary to understand that thing , what it is and how it works, So first of all I will tell R and RStudio that with the help of this we will make our Quarto website.</p>
+<section id="what-is-r-and-rstudio" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-r-and-rstudio">what is R and Rstudio</h3>
+<p>so let’s start <strong>R</strong> is a programming language and software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. R is an integrated suite of software facilities for data manipulation, calculation, and graphical display.</p>
+<p><strong>RStudio</strong> is a powerful and easy way to interact with R programming, considered an Integrated Development Environment (IDE) that provides a one-stop solution for all statistical computing and graphics. RStudio is a more advanced version of R that comes with a multi-pane window setup that provides access to all the primary things (such as source, console, environment and history, files, photos, graphs, etc.) on a single screen.</p>
+</section>
+<section id="install-r-and-rstudio" class="level3">
+<h3 class="anchored" data-anchor-id="install-r-and-rstudio">install R and Rstudio</h3>
+
+
+</section>
+</section>
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <guid>https://example.com/mysite/posts/2023-07-01_create_quarto_website/index.html</guid>
+  <pubDate>Fri, 30 Jun 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/2023-07-01_create_quarto_website/project.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Change color and style theme of a Quarto</title>
+  <dc:creator>Vinay Koure</dc:creator>
+  <link>https://example.com/mysite/posts/23_06_15_change_color_font_style_quarto/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Proin ut augue ut metus hendrerit malesuada at id turpis. Nullam ultricies orci semper sem vulputate, vel faucibus ligula rhoncus. Donec vel lacinia ante, sed consectetur nibh. Donec egestas sagittis laoreet.</p>
+
+
+
+<p>This page brought to you by <a href="https://example.com" class="uri">https://example.com</a></p> ]]></description>
+  <category>quarto</category>
+  <category>R</category>
+  <category>data science</category>
+  <category>html</category>
+  <guid>https://example.com/mysite/posts/23_06_15_change_color_font_style_quarto/index.html</guid>
+  <pubDate>Wed, 14 Jun 2023 18:30:00 GMT</pubDate>
+  <media:content url="https://example.com/mysite/posts/23_06_15_change_color_font_style_quarto/fontcolor.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

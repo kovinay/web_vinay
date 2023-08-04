@@ -1,0 +1,10 @@
+---
+title: "Works with YML"
+author: "Vinay"
+editor: visual
+date: 2023-07-05
+image: yml.jpg
+categories: [quarto, yaml]
+---
+
+## project

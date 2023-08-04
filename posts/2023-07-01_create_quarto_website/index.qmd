@@ -1,0 +1,20 @@
+---
+title: "create quarto website"
+author: "Vinay "
+editor: visual
+image: project.jpg
+date: 2023-07-01
+categories: [quarto, R]
+---
+
+# How to Create Quarto Website
+
+Before knowing anything , it is necessary to understand that thing , what it is and how it works, So first of all I will tell R and RStudio that with the help of this we will make our Quarto website.
+
+### what is R and Rstudio
+
+so let's start **R** is a programming language and software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. R is an integrated suite of software facilities for data manipulation, calculation, and graphical display.
+
+**RStudio** is a powerful and easy way to interact with R programming, considered an Integrated Development Environment (IDE) that provides a one-stop solution for all statistical computing and graphics. RStudio is a more advanced version of R that comes with a multi-pane window setup that provides access to all the primary things (such as source, console, environment and history, files, photos, graphs, etc.) on a single screen.
+
+### install R and Rstudio

@@ -1,0 +1,8 @@
+---
+title: "Homepage of Website"
+author: "Vinay"
+editor: visual
+date: 2023-07-05
+image: frontpage.jpg
+categories: [quarto, R]
+---
