@@ -1,0 +1,95 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: ""
+  site-path: "/mysite/"
+  favicon: spiderman.png
+  site-url: "https://example.com/mysite/"
+  page-navigation: true
+  cookie-consent: 
+    type: express
+    style: headline
+    palette: dark
+    storage: false
+    policy-url: "https://www.termsfeed.com/legal/privacy-policy/"
+    prefs-text: "This website is not good for you "
+  # google-analytics:
+  #   tracking-id: "UA-XXXXXXXX"
+  #   anonymize-ip: true
+  page-footer: 
+     left: "&copy; Copyright 2023, VINAY" 
+     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/er-vinay-koure-b-tech-770612177/
+      - icon: twitter 
+        href: https://twitter.com/KoureVinaykoure
+ 
+  #body-footer: "This page brought to you by <https://example.com>"
+  #margin-footer: ""
+  navbar:
+     back-to-top-navigation: true
+     search: true
+     pinned: true
+     collapse-below: "sm"
+     tools: 
+      - icon: facebook
+        href: htts://facebook.com
+      - icon: envelope
+        href: mailto:vinaykoure@gmail.com
+      - icon: github
+        href: https://github.com/kovinay
+      - icon: instagram
+        href: https://www.instagram.com/__vinay__23/
+     left:
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: blog.qmd
+        text: "Blog"
+      - href: info.qmd
+        text: "Info"
+      - href: image_for.qmd
+        text: "Resource"
+      - text: "Courses"
+        menu: 
+          - text: Data Science
+            url: htts://datascience.com
+          - text: Full Stack Developer
+            url: htts://fullstack.com
+      # - href: portfolio.qmd
+      #   text: "portfolio"
+# sidebar:
+#     style: "docked"
+#     search: true
+#     contents:
+#       - section: "Basics"
+#         contents:
+#           - r beginner
+#       - section: "idendent"
+#         contents:
+#           - dew
+#           - snow
+#           - tidyverse
+#           - dplyer
+#       - section: "Layout"
+#         contents:
+#           - go
+#           - knitr
+#           - jupyter
+format:
+  html:
+    theme: theme_vinay.scss
+    page-layout: full
+    # mainfont: arial 
+    # fontsize: 1rem
+    # fontcolor: "#0013d5"
+    # linkcolor: "#ff33f0"
+    # monofont: courier new
+    # css: styles.css
+    toc: true
+
+
+

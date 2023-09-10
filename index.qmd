@@ -1,6 +1,6 @@
 ---
 title: "Vinay Koure"
-image: avatar.jpg
+image: vinay12.png
 about:
   id: hero-heading
   template: trestles
@@ -8,17 +8,21 @@ about:
   image-shape: round
   links:
     - icon: twitter
-      text: twitter
-      href: https://twitter.com
+      text: Twitter
+      href: https://twitter.com/KoureVinaykoure
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/kovinay
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/er-vinay-koure-b-tech-770612177/
+      
 toc: false
 ---
 
 ## Bio
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I'm Vinay Koure, a Computer Science graduate with a passion for unraveling the mysteries hidden in data. I'm on an exciting journey into the world of Data Science, where I'm constantly exploring, learning, and applying insights to real-world challenges. With a knack for coding, a curiosity for analytics, and a vision for innovation, I'm dedicated to shaping a data-driven future. Join me as I turn raw information into impactful solutions."
 
 ## Education
 
@@ -30,6 +34,6 @@ Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovatin
 
 ## Experience
 
-**Internship with MP Police** \| Cyber Security
+**Internship with MP Police** \| Cyber Security (3 months)
 
-**Systemonex pvt ltd**
+**Systemonex pvt ltd** \| Associate Consultant

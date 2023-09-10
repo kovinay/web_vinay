@@ -7,10 +7,76 @@ This is a personal website.
 
 First of all, thank you for giving me this opportunity to present my Website.
 
-My name is Vinay. I came from MP but presently I am staying in Alwar(RJ).
+My name is Vinay. I came from Balaghat(MP) but presently I am staying in Alwar(RJ).
 
 Coming to my educational background, I completed my schooling in 2016 with 58%. I completed my intermediate in 2018 with a percentage of 74% And I completed my graduation in the stream of computer science of engineering in the year 2022, with a CGPA of 8.28 .
 
-![](https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dW5pdmVyc2l0eXxlbnwwfHwwfHx8MA%253D%253D&auto=format&fit=crop&w=500&q=60){fig-align="center"}
+### Graduation  
 
 Now I am during my graduation in computer science learn lot of skill and that time
+
+(B.Tech) degree in Computer Science and Engineering (CSE) at RGPV, the journey typically spans four years, during which they study a range of subjects and engage in various academic and practical activities.
+
+Here's an overview of a typical student journey in CSE at RGPV, including the subjects studied over the four-year program:
+
+**Year 1: Foundation Year**
+
+In the first year, students typically establish a strong foundation in computer science and related subjects. Core subjects might include:
+
+1.  **Engineering Mathematics:** Students learn fundamental concepts of calculus, linear algebra, and discrete mathematics, which are essential for computer science.
+
+2.  **Engineering Physics:** This course covers topics like mechanics and optics, which form the basis for understanding physical principles used in computing devices.
+
+3.  **Engineering Chemistry:** Students study basic chemical concepts that may relate to materials science and hardware components in computer systems.
+
+4.  **Basic Electronics:** An introduction to electronic circuits and components that are relevant to computer hardware.
+
+5.  **Introduction to Programming:** Students usually start with a programming language like C or Python to learn the basics of programming and problem-solving.
+
+**Year 2: Core CSE Subjects**
+
+In the second year, students delve deeper into computer science concepts and programming languages. Some subjects may include:
+
+1.  **Data Structures and Algorithms:** This course focuses on the design and analysis of data structures and algorithms, a core component of computer science.
+
+2.  **Object-Oriented Programming:** Students delve deeper into object-oriented programming concepts using languages like Java or C++.
+
+3.  **Computer Organization and Architecture:** This subject covers the internal structure of computers, including CPU architecture and memory systems.
+
+4.  **Database Management Systems:** An introduction to database design and management, covering SQL and relational databases.
+
+5.  **Operating Systems:** Understanding the principles of operating systems, including process management and file systems.
+
+**Year 3: Specialized and Elective Courses**
+
+By the third year, students often have the opportunity to choose electives and focus on areas of interest, such as:
+
+1.  **Software Engineering:** Topics include software development methodologies, requirements engineering, and software testing.
+
+2.  **Computer Networks:** This subject covers the fundamentals of networking, including TCP/IP, routing, and network protocols.
+
+3.  **Web Technologies:** Students learn web development using technologies like HTML, CSS, JavaScript, and server-side scripting.
+
+4.  **Artificial Intelligence:** Introduction to AI concepts, including machine learning, natural language processing, and robotics.
+
+5.  **Electives:** Students may choose elective courses based on their interests, such as cybersecurity, cloud computing, or data science.
+
+**Year 4: Advanced Topics and Projects**
+
+e final year usually involves a capstone project where students apply their knowledge to solve real-world problems. In addition to the project, students might take advanced electives like:
+
+1.  **Compiler Design:** Understanding how programming languages are translated into machine code by compilers.
+
+2.  **Distributed Systems:** Studying distributed computing and systems like MapReduce.
+
+3.  **Big Data Analytics:** Exploring tools and techniques for handling and analyzing large datasets.
+
+4.  **Project Work:** The final year often includes a major project where students apply their knowledge to solve a real-world problem.
+
+5.  **Seminar and Viva:** Students may present their projects and research in a seminar and undergo viva voce examinations.
+
+This four-year journey typically culminates in a major project or thesis, where students apply their knowledge and skills to solve real-world problems. The elective courses in the later years allow students to specialize in areas of interest within computer science.
+
+Additionally, students may also engage in extracurricular activities, participate in coding competitions, attend workshops and seminars, and work on collaborative projects to enhance their practical skills and network with professionals in the field.
+
+Please remember that this is a general outline, and the specific courses and syllabus may vary based on the university's updates and individual student choices. Always refer to the university's official resources for the most accurate and up-to-date information regarding your CSE program at RGPV.
